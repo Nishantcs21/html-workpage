@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link ="stylesheet" href="box.css">
+</head>
+<html>
+<body>
+       
+       <body>
+        <center><img src="https://scontent.fblr4-3.fna.fbcdn.net/v/t1.18169-9/21272518_269725106878266_3527629668134332764_n.png?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=HyxGZn0GjusAX8uMgdq&_nc_ht=scontent.fblr4-3.fna&oh=00_AfBM122GPsFxBRDfcQakBPRHIb4b1byWTEIj7dAQStwkUA&oe=63B87CEC" height="200" width="200">         
+        </center>
+        <br>
+        <h1>Events</h1>
+        
+        <table border="2px" width=25% cellspacing="1" cellpadding="1" >
+             
+        <thead>
+         <tr>
+            <td>Name of the event</td>
+            <td>link to visit</td>
+            <td>time of the event</td>
+            <td>fee</td>
+         </tr>   
+         </thead>
+         <tbody>
+            <tr>
+                <td>piday</td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <td>Gridlocked</td>
+            <td>https://www.phaseshift.in/eventPage/PENDEL</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <td>Deadlocked</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <td>Hunt el infinito</td>
+    <td>https://www.phaseshift.in/eventPage/PENHEI</td>
+    <td></td>
+    <td></td>
+        </table>
+        <br>
+        <br>
+        <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjyUhrnx0IdLehtuvnylIEwiN0mUPIfzgERHolX6LDWU1d2c9ptwfqq2mlC1hjicUoZyQ&usqp=CAU height="200" width="200">          
+        <img src=https://phaseshift.https://phaseshift.in/_next/image?url=https%3A%2F%2Fstatic.phaseshift.in%2FPENDEL.webp&w=640&q=75in/_next/image?url=https%3A%2F%2Fstatic.phaseshift.in%2FPENHEI.webp&w=640&q=75 height="200" width="200" alignment="center">
+        <img src="https://phaseshift.in/_next/image?url=https%3A%2F%2Fstatic.phaseshift.in%2FPENDEL.webp&w=640&q=75"height="200" width="200" alignment="center">
+    </body>   
+</body>
+
+</html>
+
+    
